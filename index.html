@@ -9,58 +9,133 @@
     </head>
     
     <body class="bg-dark">
-        <div class="nav"
+        <nav class="navbar navbar-expand-lg bg-light">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#" ><img class="mx-auto d-block" style="max-width: 25px; border-radius:50%" src="celeste.jpg"></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#aboutMe">About me</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link " aria-current="page" href="#techStack">Tech stack</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link " aria-current="page" href="#personalProjects">Personal projects</a>
+                  </li>
+                  
+              </div>
+            </div>
+          </nav>
 
         <div class="container" style="max-width:800px">
             <div class="row my-4 textWhite text-center">
                 <img class="mx-auto d-block" style="max-width: 200px; border-radius:50%" src="profilePic.jpeg">
                 <h1>Daniel Tok</h1>
-                <h6>danielxt@umich.edu</h6>
+                <h6>danielxt@umich.edu </h6>
+                <p>
+                    <a href="https://www.linkedin.com/in/daniel-tok-8893732b3/"><img src="linkedin.webp" class="techIcon"></a>
+                </p>
             </div>
-            <h1 class="textWhite">
+            <h1 class="textWhite" id="aboutMe">
                 About me
             </h1>
             <div class="my-4 textWhite">
                 <p>Hello! I'm a junior studying Computer Science at the University of Michigan - Ann Arbor.</p>
                 <p>My main interests are in building web applications and developing solutions utilizing cloud services.</p>
             </div>
-            <h1 class="textWhite">
+            <h1 class="textWhite" id="techStack">
                 Tech stack
             </h1>
             <div class="my-4 textWhite">
+               
                 <p>
                     In order of proficiency:
                 </p>
-                
-                <p>
-                    <b>Languages:</b>
-                    <ul>
-                        <li>Python <img src="python.svg" class="techIcon"></li>
-                        <li>C++ <img src="c++.png" class="techIcon"></li>
-                        <li>C <img src="c.png" class="techIcon"></li>
-                        <li>SQL <img src="sql.svg" class="techIcon"></li>
-                        <li>JavaScript <img src="javascript.png" class="techIcon"></li>
-                    </ul>
-                </p>
 
+                <div class="text-center">
+                    <div class="row">
+                        <div class="col">
+                            <b>Languages</b>
+                        </div>
+                        <div class="col">
+                            <b>Frameworks</b>
+                        </div>
+                    </div>
+    
+    
+                    <div class="row">
+                        <div class="col">
+                            Python <img src="python.svg" class="techIcon">
+                            
+                        </div>
+                        <div class="col">
+                            Django <img src="django.svg" class="techIcon">
+                       
+                        </div>
+                    </div>
+    
+                    <div class="row">
+                        <div class="col">
+                            C++ <img src="c++.png" class="techIcon">
+                           
+                        </div>
+                        <div class="col">
+                            Pandas <img src="Pandas.svg" class="techIcon">
+                          
+                        </div>
+                    </div>
+    
+                    <div class="row">
+                        <div class="col">
+                            C <img src="c.png" class="techIcon">
+                        </div>
+                        <div class="col">
+                            React <img src="react.png" class="techIcon">
+                        </div>
+                    </div>
+    
+                    <div class="row">
+                        <div class="col">
+                            SQL <img src="sql.svg" class="techIcon">
+                            
+                        </div>
+                        <div class="col">
+                         
+                        </div>
+                    </div>
+    
+                    <div class="row">
+                        <div class="col">
+                            JavaScript <img src="javascript.png" class="techIcon">
+                        </div>
+                        <div class="col">
+                        
+                        </div>
+                    </div>
+                </div>
+                <br>
                 <p>
-                    <b>Frameworks:</b>
-                    <ul>
-                        <li>Django <img src="django.svg" class="techIcon"></li>
-                        <li>Pandas <img src="Pandas.svg" class="techIcon"></li>
-                        <li>React <img src="react.png" class="techIcon"></li>
-                    </ul>
+                    Cloud certifications:
                 </p>
-                <p>
-                    <b>Cloud certificates:</b>
-                    <p>
+                <br>
+
+
+
+
+    
+                    
+                    <p class="text-center">
                         <a href="https://www.credly.com/badges/4c5d1e91-4757-428a-b47e-6dfcb0fd2674/public_url"><img src="awsdevassoc.png" class="certIcon"></a>
                     </p>
                     
                 </p>
             </div>
 
-            <h1 class="textWhite">
+            <h1 class="textWhite" id="personalProjects">
                 Personal projects
             </h1>
             <div class="row my-4">
