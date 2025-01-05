@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/personalWebsite/static/css/main.6ebaeea1.css",
-    "main.js": "/personalWebsite/static/js/main.a662c4e1.js",
+    "main.js": "/personalWebsite/static/js/main.e4d78084.js",
     "static/js/488.9c92ff38.chunk.js": "/personalWebsite/static/js/488.9c92ff38.chunk.js",
     "static/media/roboto-latin-400-normal.woff2": "/personalWebsite/static/media/roboto-latin-400-normal.297d48e1b5a10c0831a9.woff2",
     "static/media/roboto-latin-400-normal.woff": "/personalWebsite/static/media/roboto-latin-400-normal.047a7839f69b209db815.woff",
     "static/media/roboto-cyrillic-ext-400-normal.woff2": "/personalWebsite/static/media/roboto-cyrillic-ext-400-normal.5cec61a21cc20180fbe1.woff2",
     "static/media/roboto-cyrillic-ext-400-normal.woff": "/personalWebsite/static/media/roboto-cyrillic-ext-400-normal.135d076fa32aa0b4d105.woff",
+    "static/media/uofm.png": "/personalWebsite/static/media/uofm.a22e7e3e79e7499d8fe4.png",
     "static/media/roboto-latin-ext-400-normal.woff2": "/personalWebsite/static/media/roboto-latin-ext-400-normal.2eeae187764baf05867d.woff2",
     "static/media/roboto-latin-ext-400-normal.woff": "/personalWebsite/static/media/roboto-latin-ext-400-normal.27da5b36b6d3a16f53f4.woff",
     "static/media/roboto-cyrillic-400-normal.woff2": "/personalWebsite/static/media/roboto-cyrillic-400-normal.a9e19870cf6c4b973427.woff2",
@@ -20,11 +21,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/personalWebsite/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/personalWebsite/index.html",
     "main.6ebaeea1.css.map": "/personalWebsite/static/css/main.6ebaeea1.css.map",
-    "main.a662c4e1.js.map": "/personalWebsite/static/js/main.a662c4e1.js.map",
+    "main.e4d78084.js.map": "/personalWebsite/static/js/main.e4d78084.js.map",
     "488.9c92ff38.chunk.js.map": "/personalWebsite/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ebaeea1.css",
-    "static/js/main.a662c4e1.js"
+    "static/js/main.e4d78084.js"
   ]
 }
