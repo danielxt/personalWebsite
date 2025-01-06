@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/personalWebsite/static/css/main.6ebaeea1.css",
-    "main.js": "/personalWebsite/static/js/main.d95e96b9.js",
+    "main.js": "/personalWebsite/static/js/main.bcaab2c1.js",
     "static/js/488.9c92ff38.chunk.js": "/personalWebsite/static/js/488.9c92ff38.chunk.js",
     "static/media/task.png": "/personalWebsite/static/media/task.333703314a2026561e1e.png",
     "static/media/chataway.png": "/personalWebsite/static/media/chataway.5f7f2396a7e6af559c91.png",
+    "static/media/profilePic.jpeg": "/personalWebsite/static/media/profilePic.f507804dc87aa20559b9.jpeg",
     "static/media/roomReserve.png": "/personalWebsite/static/media/roomReserve.ab157db08bb84cd0b0a8.png",
     "static/media/weatherDashboard.png": "/personalWebsite/static/media/weatherDashboard.478663f3bdc4945ed39b.png",
     "static/media/networkFileServer.webp": "/personalWebsite/static/media/networkFileServer.a49778f179cc55450330.webp",
@@ -27,11 +28,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/personalWebsite/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/personalWebsite/index.html",
     "main.6ebaeea1.css.map": "/personalWebsite/static/css/main.6ebaeea1.css.map",
-    "main.d95e96b9.js.map": "/personalWebsite/static/js/main.d95e96b9.js.map",
+    "main.bcaab2c1.js.map": "/personalWebsite/static/js/main.bcaab2c1.js.map",
     "488.9c92ff38.chunk.js.map": "/personalWebsite/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ebaeea1.css",
-    "static/js/main.d95e96b9.js"
+    "static/js/main.bcaab2c1.js"
   ]
 }
